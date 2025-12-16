@@ -40,10 +40,27 @@ I love coding, problem-solving, and building things from scratch.
     </summary>
 
 <br>
+<!-- BUTTON -->
+<p align="center">
+  <details>
+    <summary
+      style="
+        list-style: none;
+        cursor: pointer;
+        padding: 12px 20px;
+        background: linear-gradient(90deg, #ff9a9e, #fad0c4);
+        color: black;
+        border-radius: 25px;
+        font-weight: bold;
+        display: inline-block;
+      ">
+      🚀 CLICK TO VIEW MY SKILLS
+    </summary>
+
+<br>
 
 <!-- SKILLS SECTION -->
 <h3 align="center">💻 Programming Languages</h3>
-<details>
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" />
@@ -75,7 +92,10 @@ I love coding, problem-solving, and building things from scratch.
     <img src="https://skillicons.dev/icons?i=unity" />
   </a>
 </p>
-</details>
+
+  </details>
+</p>
+
 ---
 
 ## 📊 GitHub Stats

@@ -44,7 +44,15 @@ I love coding, problem-solving, and building things from scratch.
 <!-- SKILLS SECTION -->
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
 </p>
 
 <h3 align="center">🌐 Web Development</h3>

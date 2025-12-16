@@ -1,4 +1,4 @@
-<!-- HEADER -->
+
 <h1 align="center">˖ . ݁𝜗𝜚. ݁₊ Hi, I'm Iries Joy M. Cano ˖ . ݁𝜗𝜚. ݁₊</h1>
 
 <p align="center">
@@ -9,9 +9,7 @@
   <b>BS Mathematics (Computer Science)</b> • 3rd Year • Bulacan State University
 </p>
 
----
 
-<!-- ABOUT ME (FIRST PAGE CONTENT) -->
 ## 👩‍💻 About Me
 
 Hi! I’m **Iries Joy M. Cano**, a **Bachelor of Science in Mathematics** student specializing in **Computer Science** at **Bulacan State University**.
@@ -21,8 +19,6 @@ I love coding, problem-solving, and building things from scratch.
 ✨ *Math + code + creativity.*
 
 ---
-
-<!-- BUTTON -->
 <p align="center">
   <details>
     <summary
@@ -41,7 +37,7 @@ I love coding, problem-solving, and building things from scratch.
 
 <br>
 
-<!-- SKILLS SECTION -->
+
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
   <a href="https://www.java.com/" target="_blank">

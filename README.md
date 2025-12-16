@@ -43,6 +43,7 @@ I love coding, problem-solving, and building things from scratch.
 
 <!-- SKILLS SECTION -->
 <h3 align="center">💻 Programming Languages</h3>
+<details>
 <p align="center">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" />
@@ -74,7 +75,7 @@ I love coding, problem-solving, and building things from scratch.
     <img src="https://skillicons.dev/icons?i=unity" />
   </a>
 </p>
-
+</details>
 ---
 
 ## 📊 GitHub Stats

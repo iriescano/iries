@@ -2,7 +2,7 @@
 <h1 align="center">˖ . ݁𝜗𝜚. ݁₊ Hi, I'm Iries Joy M. Cano ˖ . ݁𝜗𝜚. ݁₊</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+  <img src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="280"/>
 </p>
 
 <p align="center">

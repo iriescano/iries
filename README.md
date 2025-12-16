@@ -14,10 +14,9 @@
 <!-- ABOUT ME (FIRST PAGE CONTENT) -->
 ## 👩‍💻 About Me
 
-Hi! I’m **Iries Joy M. Cano**, a **Bachelor of Science in Mathematics** student specializing in **Computer Science** at **Bulacan State University – Main Campus**.
+Hi! I’m **Iries Joy M. Cano**, a **Bachelor of Science in Mathematics** student specializing in **Computer Science** at **Bulacan State University**.
 
 I love coding, problem-solving, and building things from scratch.  
-Currently, I’m learning **Game Development using Unity** 🎮.
 
 ✨ *Math + code + creativity.*
 

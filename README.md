@@ -19,7 +19,7 @@ Hi! I’m **Iries Joy M. Cano**, a **Bachelor of Science in Mathematics** studen
 I love coding, problem-solving, and building things from scratch.  
 Currently, I’m learning **Game Development using Unity** 🎮.
 
-✨ *Math brain + code + creativity.*
+✨ *Math + code + creativity.*
 
 ---
 

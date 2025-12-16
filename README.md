@@ -49,7 +49,9 @@ I love coding, problem-solving, and building things from scratch.
 
 <h3 align="center">🌐 Web Development</h3>
 <p align="center">
+   <a href="https://www.java.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=html,css,mysql" />
+   </a>
 </p>
 
 <h3 align="center">🎮 Game Development</h3>

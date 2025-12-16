@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">🌸 Hi, I'm Iries Joy M. Cano 🌸</h1>
+<h1 align="center">˖ . ݁𝜗𝜚. ݁₊ Hi, I'm Iries Joy M. Cano ˖ . ݁𝜗𝜚. ݁₊</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
